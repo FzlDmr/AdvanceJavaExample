@@ -1,8 +1,8 @@
 package generics;
-    public class UseGenerics {
+    public class Generics01 {
         public static void main(String args[]){
             MyGen<Integer> m = new MyGen<Integer>();
-            //m.set("merit"); CTE hatasi verir Integer tipinde belirlendigi icin String yazamayiz
+            //m.set("java"); CTE hatasi verir Integer tipinde belirlendigi icin String yazamayiz
             System.out.println(m.get());
         }
     }
