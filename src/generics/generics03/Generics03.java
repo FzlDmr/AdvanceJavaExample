@@ -1,4 +1,4 @@
-package generics;
+package generics.generics03;
 
 
 class MyClassA<U> {

@@ -1,4 +1,4 @@
-package generics;
+package generics.generics02;
 
 public class Generics02<T> {
     private T t;

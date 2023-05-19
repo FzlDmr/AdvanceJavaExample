@@ -1,4 +1,4 @@
-package generics;
+package generics.generics01;
     public class Generics01 {
         public static void main(String args[]){
             MyGen<Integer> m = new MyGen<Integer>();

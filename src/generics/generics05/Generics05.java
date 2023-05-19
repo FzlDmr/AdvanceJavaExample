@@ -1,4 +1,4 @@
-package generics;
+package generics.generics05;
 
 public class Generics05 {
     public static void main(String args[])
