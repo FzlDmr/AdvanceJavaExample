@@ -21,3 +21,4 @@ class GenericsWithObjects<T>
     {
         System.out.println(obj);
     }
+}
